@@ -68,4 +68,14 @@ pip install -r requirements.txt
 - **Bibliotecas:** pandas, numpy, seaborn, etc. (Listadas no requirements.txt)
 
 ## Contribuições:
-Este projeto foi desenvolvido como parte de um trabalho acadêmico de:
+Integrantes do Grupo:
+
+Luigi Lago (GitHub: [link])
+Carlos (GitHub: [link])
+Nat (GitHub: [link])
+Gabs (GitHub: [link])
+Dyna (GitHub: [link])
+
+Faculdade Impacta
+Curso de Pós-Graduação em MBA Data Science & Advanced Analytics
+Data de Submissão: A ser definido

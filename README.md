@@ -39,3 +39,23 @@ Contém todas as análises e visualizações, organizado em seções para cada u
 
 **2. Documento PowerPoint:**
 Apresenta as conclusões das análises, com os gráficos e visualizações, junto com os nomes dos integrantes do grupo e os links para os respectivos GitHub contendo os notebooks.
+
+## Como executar
+
+Para replciar as análises apresentadas:
+
+**1. Clone o repositório**
+
+```bash
+git clone https://github.com/seuusuario/repositorio.git
+
+**2. Navegue até o diretório do projeto**
+
+```bash
+cd repositorio
+
+**3. Instale as dependências necessárias:**
+
+```bash
+pip install -r requirements.txt
+

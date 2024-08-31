@@ -48,14 +48,17 @@ Para replciar as análises apresentadas:
 
 ```bash
 git clone https://github.com/seuusuario/repositorio.git
+```bash
 
 **2. Navegue até o diretório do projeto**
 
 ```bash
 cd repositorio
+```bash
 
 **3. Instale as dependências necessárias:**
 
 ```bash
 pip install -r requirements.txt
+```bash
 

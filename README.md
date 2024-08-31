@@ -50,4 +50,22 @@ Para replciar as análises apresentadas:
 git clone https://github.com/seuusuario/repositorio.git
 ```
 
-ola
+**2. Navegue até o diretório do projeto**
+
+```bash
+cd repositorio
+```
+
+**3. Instale as dependências necessárias:**
+
+```bash
+pip install -r requirements.txt
+```
+
+## Requisitos
+
+- **Python 3.x**
+- **Bibliotecas:** pandas, numpy, seaborn, etc. (Listadas no requirements.txt)
+
+## Contribuições:
+Este projeto foi desenvolvido como parte de um trabalho acadêmico de:

@@ -1,4 +1,4 @@
-# Analise-Exploratoria-Impacta
+# Analise-Exploratoria-Atrasos
 Análise Exploratória de Dados: Atrasos em Companhias Aéreas
 
 ## Descrição do Projeto

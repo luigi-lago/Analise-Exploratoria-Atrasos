@@ -30,7 +30,7 @@ Inclui gráficos analíticos e executivos para suportar as conclusões da análi
 
 - **Conclusões:**
 
-Um resumo das principais descobertas, apresentado em formato de texto e complementado com gráficos no documento PowerPoint.
+Um resumo das principais descobertas, apresentado em formato de texto e complementado com gráficos no documento "Analise Exxploratória - Aeroportos.pdf".
 
 ## Entregáveis
 
@@ -65,17 +65,8 @@ pip install -r requirements.txt
 ## Requisitos
 
 - **Python 3.x**
-- **Bibliotecas:** pandas, numpy, seaborn, etc. (Listadas no requirements.txt)
-
-## Contribuições:
-Integrantes do Grupo:
-
-Luigi Lago (GitHub: [link])
-Carlos (GitHub: [link])
-Nat (GitHub: [link])
-Gabs (GitHub: [link])
-Dyna (GitHub: [link])
+- **Bibliotecas:** Listadas no requirements.txt
 
 Faculdade Impacta
 Curso de Pós-Graduação em MBA Data Science & Advanced Analytics
-Data de Submissão: A ser definido
+Data de Submissão: 02/09/2024
